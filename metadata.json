@@ -1,0 +1,5 @@
+{
+  "name": "SafetyPro Study Dashboard",
+  "description": "An interactive study application for Workplace Safety (Almoxarifes) featuring checklists, quizzes, case studies, and AI-powered tutoring using Gemini.",
+  "requestFramePermissions": []
+}
